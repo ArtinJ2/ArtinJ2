@@ -1,15 +1,32 @@
 # 💫 About Me:
-I am a Computer Engineering student at Simon Fraser University with a focus on Intelligent Systems and Hardware-Software Integration.
-/n
-🚀 What I’m Working On AI & Game Engines: Developed a Reversi Engine using C++ with a minimax search and a neural-network-based evaluator.
-Digital Systems: Designing advanced digital systems using VHDL/SystemVerilog and implementing them on FPGAs.
-Embedded Systems: Building automated hardware, such as a Polarized Window Blind System using Arduino and custom circuitry.
-🛠 Tech StackLanguages: C++, Ruby, Java, Python, VHDL, SystemVerilog.
-Hardware/Embedded: FPGA (Quartus, Vivado, Vitis), Arduino, Microcontrollers.
-Tools: Linux, VMware, Git, Oscilloscopes, Multimeters.Key 
-Coursework: Advanced Digital System Design, Artificial Intelligence, Operating Systems, and Data Structures.
-🏆 Beyond EngineeringWhen I'm not debugging or designing circuits, I am a Head Coach for competitive youth volleyball and a STEM Tutor, where I help K-12 students master Physics and Calculus.📫 Reach Out<br><br>Email: aja109@sfu.ca <br><br><br>Location: Vancouver, BC
-
+<br>
+[cite_start]I am a Computer Engineering student at Simon Fraser University with a focus on Intelligent Systems and Hardware-Software Integration[cite: 53, 54, 295].
+<br>
+<br>
+🚀 What I’m Working On 
+<br>
+[cite_start]AI & Game Engines: Developed a Reversi Engine using C++ with a minimax search and a neural-network-based evaluator[cite: 25, 28].
+<br>
+[cite_start]Digital Systems: Designing advanced digital systems using VHDL/SystemVerilog and implementing them on FPGAs[cite: 7, 9, 62].
+<br>
+[cite_start]Embedded Systems: Building automated hardware, such as a Polarized Window Blind System using Arduino and custom circuitry[cite: 49, 51].
+<br>
+<br>
+🛠 Tech Stack
+<br>
+[cite_start]Languages: C++, Ruby, Java, Python, VHDL, SystemVerilog[cite: 7].
+<br>
+[cite_start]Hardware/Embedded: FPGA (Quartus, Vivado, Vitis), Arduino, Microcontrollers[cite: 8, 9].
+<br>
+[cite_start]Tools: Linux, VMware, Git, Oscilloscopes, Multimeters[cite: 9, 46].
+<br>
+[cite_start]Key Coursework: Advanced Digital System Design, Artificial Intelligence, Operating Systems, and Data Structures.
+<br>
+<br>
+🏆 Beyond Engineering
+<br>
+[cite_start]When I'm not debugging or designing circuits, I am a Head Coach for competitive youth volleyball and a STEM Tutor, where I help K-12 students master Physics and Calculus[cite: 13, 14, 18, 19, 20].
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/artinjafarirad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:artin.jafarirad@outlook.com) 
