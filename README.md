@@ -1,31 +1,31 @@
 # 💫 About Me:
 <br>
-[cite_start]I am a Computer Engineering student at Simon Fraser University with a focus on Intelligent Systems and Hardware-Software Integration[cite: 53, 54, 295].
+I am a Computer Engineering student at Simon Fraser University with a focus on Intelligent Systems and Hardware-Software Integration.
 <br>
 <br>
 🚀 What I’m Working On 
 <br>
-[cite_start]AI & Game Engines: Developed a Reversi Engine using C++ with a minimax search and a neural-network-based evaluator[cite: 25, 28].
+AI & Game Engines: Developed a Reversi Engine using C++ with a minimax search and a neural-network-based evaluator.
 <br>
-[cite_start]Digital Systems: Designing advanced digital systems using VHDL/SystemVerilog and implementing them on FPGAs[cite: 7, 9, 62].
+Digital Systems: Designing advanced digital systems using VHDL/SystemVerilog and implementing them on FPGAs.
 <br>
-[cite_start]Embedded Systems: Building automated hardware, such as a Polarized Window Blind System using Arduino and custom circuitry[cite: 49, 51].
+Embedded Systems: Building automated hardware, such as a Polarized Window Blind System using Arduino and custom circuitry.
 <br>
 <br>
 🛠 Tech Stack
 <br>
-[cite_start]Languages: C++, Ruby, Java, Python, VHDL, SystemVerilog[cite: 7].
+Languages: C++, Ruby, Java, Python, VHDL, SystemVerilog.
 <br>
-[cite_start]Hardware/Embedded: FPGA (Quartus, Vivado, Vitis), Arduino, Microcontrollers[cite: 8, 9].
+Hardware/Embedded: FPGA (Quartus, Vivado, Vitis), Arduino, Microcontrollers.
 <br>
-[cite_start]Tools: Linux, VMware, Git, Oscilloscopes, Multimeters[cite: 9, 46].
+Tools: Linux, VMware, Git, Oscilloscopes, Multimeters.
 <br>
-[cite_start]Key Coursework: Advanced Digital System Design, Artificial Intelligence, Operating Systems, and Data Structures.
+Key Coursework: Advanced Digital System Design, Artificial Intelligence, Operating Systems, and Data Structures.
 <br>
 <br>
 🏆 Beyond Engineering
 <br>
-[cite_start]When I'm not debugging or designing circuits, I am a Head Coach for competitive youth volleyball and a STEM Tutor, where I help K-12 students master Physics and Calculus[cite: 13, 14, 18, 19, 20].
+When I'm not debugging or designing circuits, I am a Head Coach for competitive youth volleyball and a STEM Tutor, where I help K-12 students master Physics and Calculus.
 <br>
 
 ## 🌐 Socials:
