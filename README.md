@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am a Computer Engineering student at Simon Fraser University with a focus on Intelligent Systems and Hardware-Software Integration. I bridge the gap between complex algorithms and physical implementation, from training neural networks to designing custom digital logic.🚀 What I’m Working OnAI & Game Engines: Developed a Reversi Engine using C++ with a minimax search and a neural-network-based evaluator.Digital Systems: Designing advanced digital systems using VHDL/SystemVerilog and implementing them on FPGAs.Embedded Systems: Building automated hardware, such as a Polarized Window Blind System using Arduino and custom circuitry.🛠 Tech StackLanguages: C++, Ruby, Java, Python, VHDL, SystemVerilog.Hardware/Embedded: FPGA (Quartus, Vivado, Vitis), Arduino, Microcontrollers.Tools: Linux, VMware, Git, Oscilloscopes, Multimeters.Key Coursework: Advanced Digital System Design, Artificial Intelligence, Operating Systems, and Data Structures.🏆 Beyond EngineeringWhen I'm not debugging or designing circuits, I am a Head Coach for competitive youth volleyball and a STEM Tutor, where I help K-12 students master Physics and Calculus.📫 Reach Out<br><br>Email: aja109@sfu.ca <br><br><br>Location: Vancouver, BC
+I am a Computer Engineering student at Simon Fraser University with a focus on Intelligent Systems and Hardware-Software Integration.
+🚀 What I’m Working OnAI & Game Engines: Developed a Reversi Engine using C++ with a minimax search and a neural-network-based evaluator.
+Digital Systems: Designing advanced digital systems using VHDL/SystemVerilog and implementing them on FPGAs.
+Embedded Systems: Building automated hardware, such as a Polarized Window Blind System using Arduino and custom circuitry.
+🛠 Tech StackLanguages: C++, Ruby, Java, Python, VHDL, SystemVerilog.
+Hardware/Embedded: FPGA (Quartus, Vivado, Vitis), Arduino, Microcontrollers.
+Tools: Linux, VMware, Git, Oscilloscopes, Multimeters.Key 
+Coursework: Advanced Digital System Design, Artificial Intelligence, Operating Systems, and Data Structures.
+🏆 Beyond EngineeringWhen I'm not debugging or designing circuits, I am a Head Coach for competitive youth volleyball and a STEM Tutor, where I help K-12 students master Physics and Calculus.📫 Reach Out<br><br>Email: aja109@sfu.ca <br><br><br>Location: Vancouver, BC
 
 
 ## 🌐 Socials:
