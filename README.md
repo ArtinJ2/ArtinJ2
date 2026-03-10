@@ -1,6 +1,7 @@
 # 💫 About Me:
 I am a Computer Engineering student at Simon Fraser University with a focus on Intelligent Systems and Hardware-Software Integration.
-🚀 What I’m Working OnAI & Game Engines: Developed a Reversi Engine using C++ with a minimax search and a neural-network-based evaluator.
+/n
+🚀 What I’m Working On AI & Game Engines: Developed a Reversi Engine using C++ with a minimax search and a neural-network-based evaluator.
 Digital Systems: Designing advanced digital systems using VHDL/SystemVerilog and implementing them on FPGAs.
 Embedded Systems: Building automated hardware, such as a Polarized Window Blind System using Arduino and custom circuitry.
 🛠 Tech StackLanguages: C++, Ruby, Java, Python, VHDL, SystemVerilog.
